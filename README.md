@@ -1,0 +1,3 @@
+- 👀 I’m interested in Python Software Development
+- 🌱 I’m currently working on Portfolio projects
+- 📫 I can be reached by email at mcdanielw571@gmail.com
